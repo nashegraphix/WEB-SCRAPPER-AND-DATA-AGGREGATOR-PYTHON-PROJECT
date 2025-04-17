@@ -1,0 +1,40 @@
+2025-04-17 10:55:20,101 - INFO - \U0001f4dd Logging system initialized successfully
+2025-04-17 10:55:20,102 - INFO - \U0001f4c5 Scheduled daily scraping at 10:30 AM
+2025-04-17 10:55:20,103 - INFO - \u23f0 Starting job scraping...
+2025-04-17 10:55:20,920 - INFO - \u2705 Successfully fetched the webpage
+2025-04-17 10:55:20,982 - INFO - \U0001f50d Parsing job listings...
+2025-04-17 10:55:20,984 - INFO - \U0001f4c1 Creating CSV file: scraped_jobs.csv
+2025-04-17 10:55:20,985 - INFO - \u270d\ufe0f Writing job listings to CSV...
+2025-04-17 10:55:20,986 - INFO - \u2705 Job #1 processed successfully
+2025-04-17 10:55:20,987 - INFO - \u2705 Job #2 processed successfully
+2025-04-17 10:55:20,989 - INFO - \u2705 Job #3 processed successfully
+2025-04-17 10:55:20,991 - INFO - \u2705 Job #4 processed successfully
+2025-04-17 10:55:20,992 - INFO - \u2705 Job #5 processed successfully
+2025-04-17 10:55:20,993 - INFO - \u2705 Job #6 processed successfully
+2025-04-17 10:55:20,995 - INFO - \u2705 Job #7 processed successfully
+2025-04-17 10:55:20,997 - INFO - \u2705 Job #8 processed successfully
+2025-04-17 10:55:20,998 - INFO - \u2705 Job #9 processed successfully
+2025-04-17 10:55:21,000 - INFO - \u2705 Job #10 processed successfully
+2025-04-17 10:55:21,001 - INFO - \U0001f389 Finished scraping! CSV file has been updated successfully!
+2025-04-17 10:55:21,005 - INFO - \U0001f552 Scheduler initialized and running
+2025-04-17 10:55:55,217 - INFO - \U0001f44b Stopping the scheduler...
+2025-04-17 10:56:23,801 - INFO - \U0001f4dd Logging system initialized successfully
+2025-04-17 10:56:23,802 - INFO - \U0001f4c5 Scheduled daily scraping at 10:30 AM
+2025-04-17 10:56:23,803 - INFO - \u23f0 Starting job scraping...
+2025-04-17 10:56:24,693 - INFO - \u2705 Successfully fetched the webpage
+2025-04-17 10:56:24,742 - INFO - \U0001f50d Parsing job listings...
+2025-04-17 10:56:24,744 - INFO - \U0001f4c1 Creating CSV file: scraped_jobs.csv
+2025-04-17 10:56:24,746 - INFO - \u270d\ufe0f Writing job listings to CSV...
+2025-04-17 10:56:24,747 - INFO - \u2705 Job #1 processed successfully
+2025-04-17 10:56:24,748 - INFO - \u2705 Job #2 processed successfully
+2025-04-17 10:56:24,749 - INFO - \u2705 Job #3 processed successfully
+2025-04-17 10:56:24,753 - INFO - \u2705 Job #4 processed successfully
+2025-04-17 10:56:24,755 - INFO - \u2705 Job #5 processed successfully
+2025-04-17 10:56:24,757 - INFO - \u2705 Job #6 processed successfully
+2025-04-17 10:56:24,758 - INFO - \u2705 Job #7 processed successfully
+2025-04-17 10:56:24,759 - INFO - \u2705 Job #8 processed successfully
+2025-04-17 10:56:24,761 - INFO - \u2705 Job #9 processed successfully
+2025-04-17 10:56:24,762 - INFO - \u2705 Job #10 processed successfully
+2025-04-17 10:56:24,764 - INFO - \U0001f389 Finished scraping! CSV file has been updated successfully!
+2025-04-17 10:56:24,769 - INFO - \U0001f552 Scheduler initialized and running
+2025-04-17 10:56:45,373 - INFO - \U0001f44b Stopping the scheduler...
